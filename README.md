@@ -1,2 +1,2 @@
 # FulanoBot
-Bot para telegram, escrito em Python
+Bot simples para telegram, escrito em Python
